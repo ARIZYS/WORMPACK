@@ -1,0 +1,55 @@
+
+["Mob Setting"]
+	#Setting up a Phantom spawn. Default: true.
+	"Spawn Phantom" = true
+	#Setting up a Drowned spawn. Default: true.
+	"Spawn Drowned" = true
+	#Setting up a Wandering Trader spawn. Default: true.
+	"Spawn Wandering Trader" = true
+	#Enderman will be prohibited from retrieving the block. Default: true.
+	"Enderman Block Recovery" = true
+	#Number of days until sweet magic mobs spring up. Default: 5
+	#Range: 0 ~ 999
+	"Set Date" = 5
+	#If the sweet magic mobs are hard to come up, setting it to true will make them come up as well as other mobs. Default: false.
+	"Relaxed spawn conditions Mobs" = false
+	#Sweet Magic Mob spawn setting in Cave. Default: true
+	"Spawn Sweet Magic Mob" = true
+
+["Biome Setting"]
+	#Adjustment of Prism Forest generation frequency. Default: 5
+	#Range: 0 ~ 20
+	"Prism Forest Chance" = 5
+	#Adjustment of Fruit Forest generation frequency. Default: 5
+	#Range: 0 ~ 20
+	"Fruit Forest Chance" = 5
+	#Adjustment of Cherry Blossoms Forest generation frequency. Default: 5
+	#Range: 0 ~ 20
+	"Cherry Blossoms Forest Chance" = 5
+
+["Generate Setting"]
+	#Setting the frequency of flowers generated on the plains. Default: 4
+	#Range: 0 ~ 10
+	"Plain Flower Chance" = 4
+	#Setting the frequency of flowers generated in the forest. Default: 2
+	#Range: 0 ~ 10
+	"Forest Flower Chance" = 2
+	#SEstablishing the frequency of producing flowers as dye. Default: 3
+	#Range: 0 ~ 10
+	"SweetMagic Flower Chance" = 3
+
+["Magic Setting"]
+	#Setting hunger gauge decreases when magic is used. Default: false
+	"Hungry after Magic Use" = false
+	#Set the maximum level for the magic wand. Default: 50
+	#Range: 1 ~ 1000
+	"Max Level of Wand" = 50
+
+["Food Setting"]
+	#Quality levels will be set for food. Default: true
+	"Quality Level Enablement" = true
+
+["Block Setting"]
+	#Setting for whether the Grow Flower emits light. Default: true
+	"Grow Flower emits light" = true
+

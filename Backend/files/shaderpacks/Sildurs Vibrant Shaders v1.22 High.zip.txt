@@ -1,0 +1,7 @@
+#Wed Jan 01 16:34:52 MSK 2025
+light_brightness=0.4
+Brightness=1.6
+g_multiplier=7.5
+b_multiplier=6.5
+Contrast=2.3
+r_multiplier=7.75

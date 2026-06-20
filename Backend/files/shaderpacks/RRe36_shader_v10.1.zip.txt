@@ -1,0 +1,9 @@
+#Thu Jun 11 19:55:07 MSK 2026
+s_shadowLuminance=0.98
+s_vcLightingQuality=0
+shadowMapResolution=8192
+s_usePBR=true
+mBlurSamples=6
+s_vcSamples=6
+expMethod=3
+s_ssrQuality=2

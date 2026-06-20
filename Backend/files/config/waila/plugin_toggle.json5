@@ -1,0 +1,10 @@
+{
+  "treechop:waila_plugin": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:forge": true,
+  "ae2:wthit": true,
+  "minecraft:mekanism": true
+}

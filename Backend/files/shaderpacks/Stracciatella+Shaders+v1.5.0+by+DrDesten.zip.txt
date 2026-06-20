@@ -1,0 +1,2 @@
+#Thu Jun 11 19:55:03 MSK 2026
+WAVING_LEAVES=false
