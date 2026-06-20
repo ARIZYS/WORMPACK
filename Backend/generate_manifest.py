@@ -28,12 +28,12 @@ from datetime import datetime, timezone
 # ===================== НАСТРОЙКИ =====================
 
 # Твой GitHub юзернейм и название репозитория
-GITHUB_USER = "ТВОЙ_GITHUB_НИК"
-GITHUB_REPO = "wormcraft-launcher"
+GITHUB_USER = "ARIZYS"
+GITHUB_REPO = "wWORMPACK"
 GITHUB_BRANCH = "main"
 
 # Версия Forge, которая стоит на сервере (поправь под реальную)
-FORGE_VERSION = "1.19.2-43.4.0"
+FORGE_VERSION = "1.19.2-43.5.2"
 MINECRAFT_VERSION = "1.19.2"
 
 # IP сервера для автоподключения
